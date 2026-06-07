@@ -1,4 +1,4 @@
-# Heart Disease Predictor
+# AI-Powered Heart Disease Risk Assessment System
 
 An end-to-end Machine Learning application that predicts the likelihood of heart disease using a K-Nearest Neighbors classifier.
 
